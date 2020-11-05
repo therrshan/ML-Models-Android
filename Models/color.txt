@@ -1,0 +1,9 @@
+0 Black
+1 Blue
+2 Green
+3 Orange
+4 Pink
+5 Purple
+6 Red
+7 White
+8 Yellow
